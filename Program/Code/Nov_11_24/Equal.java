@@ -1,3 +1,5 @@
+package Nov_11_24;
+
 import java.util.Arrays;
 
 public class Equal {

@@ -1,3 +1,5 @@
+package Nov_13_24;
+
 public class EquilibriumPoint {
     // Function to find the equilibrium point in the array.
     public static int equilibriumPoint(int arr[]) {

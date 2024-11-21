@@ -1,12 +1,14 @@
+package Nov_14_24;
+
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
+ * public class Nov_14_24.TreeNode {
  *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *     Nov_14_24.TreeNode left;
+ *     Nov_14_24.TreeNode right;
+ *     Nov_14_24.TreeNode() {}
+ *     Nov_14_24.TreeNode(int val) { this.val = val; }
+ *     Nov_14_24.TreeNode(int val, Nov_14_24.TreeNode left, Nov_14_24.TreeNode right) {
  *         this.val = val;
  *         this.left = left;
  *         this.right = right;
@@ -41,7 +43,7 @@ class ValidBST {
     }
 }
 
-// Definition for TreeNode class
+// Definition for Nov_14_24.TreeNode class
 class TreeNode {
     int val;
     TreeNode left;

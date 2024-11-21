@@ -1,3 +1,5 @@
+package Nov_12_24;
+
 public class LengthofLongSub {
     public int lengthOfLongestSubstring(String s) {
         int maxm = 0;

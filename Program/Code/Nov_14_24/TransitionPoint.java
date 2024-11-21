@@ -1,3 +1,5 @@
+package Nov_14_24;
+
 public class TransitionPoint {
     // Function to find the transition point in the array
     int transitionPoint(int arr[]) {

@@ -1,10 +1,10 @@
-// Definition for singly-linked list.
-//class ListNode {
+package Nov_19_24;// Definition for singly-linked list.
+//class Nov_19_24.ListNode {
 //    int val;
-//    ListNode next;
-//    ListNode() {}
-//    ListNode(int val) { this.val = val; }
-//    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+//    Nov_19_24.ListNode next;
+//    Nov_19_24.ListNode() {}
+//    Nov_19_24.ListNode(int val) { this.val = val; }
+//    Nov_19_24.ListNode(int val, Nov_19_24.ListNode next) { this.val = val; this.next = next; }
 //}
 
 public class LLRemoveEl {

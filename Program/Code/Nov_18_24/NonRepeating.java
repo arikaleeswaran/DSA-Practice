@@ -1,3 +1,5 @@
+package Nov_18_24;
+
 import java.util.HashMap;
 
 public class NonRepeating {

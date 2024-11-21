@@ -1,3 +1,5 @@
+package Nov_12_24;
+
 public class MaxOne {
     public static int maxOnes(int Mat[][], int N, int M) {
         int maxm = 0;

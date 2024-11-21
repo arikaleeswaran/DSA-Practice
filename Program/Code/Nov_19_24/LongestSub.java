@@ -1,3 +1,5 @@
+package Nov_19_24;
+
 import java.util.Arrays;
 
 public class LongestSub {
